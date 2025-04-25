@@ -15,9 +15,9 @@ A modern, animated, and responsive single-page landing template built with cutti
 ## Features
 
 *   **Hero Section:** Full-height section with animated particle background (`react-tsparticles`), headline, sub-headline, and call-to-action buttons. Uses Framer Motion for entrance animations.
-*   **About Section:** Section to describe the product/service, potentially with image and text layout. Uses Framer Motion for scroll-triggered animations.
-*   **Services Section:** Displays services using cards, likely utilizing Heroicons and a grid layout. Uses Framer Motion for scroll-triggered animations on the section and potentially staggered animations for cards.
-*   **Gallery Section:** Image gallery section, likely using `next/image` for optimization and Framer Motion for hover effects and scroll-triggered animations.
+*   **About Section:** Section to describe the product/service, featuring an image and text layout. Uses Framer Motion for scroll-triggered animations.
+*   **Services Section:** Displays services using cards, utilizing Heroicons and a grid layout. Uses Framer Motion for scroll-triggered animations on the section and staggered animations for cards.
+*   **Gallery Section:** Image gallery section, using `next/image` for optimization and Framer Motion for hover effects and scroll-triggered animations.
 *   **Contact Section:** A functional contact form with client-side validation. Uses Framer Motion for scroll-triggered animations.
 *   **Navbar:** Sticky navigation bar for easy access to sections.
 *   **Footer:** Includes copyright information (dynamic year) and social media links.
