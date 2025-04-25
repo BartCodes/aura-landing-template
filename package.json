@@ -1,0 +1,41 @@
+{
+  "name": "aura-landing-page",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@heroui/react": "^2.8.0-beta.1",
+    "@tsparticles/react": "^3.0.0",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "aura-landing-page": "file:",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.7.4",
+    "next": "15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scroll": "^1.9.3",
+    "react-social-icons": "^6.24.0",
+    "react-tsparticles": "^2.12.2",
+    "tailwind-merge": "^3.2.0",
+    "tsparticles": "^3.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-scroll": "^1.8.10",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
