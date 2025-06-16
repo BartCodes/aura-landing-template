@@ -84,7 +84,7 @@ export function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-default-200 text-center text-sm text-content3-foreground">
-          <p>Designed and built by <Link href="https://github.com/BartCodes" className="text-primary hover:text-primary/80 transition-colors">BartCodes</Link></p>
+          <p>Designed and built by <Link href="https://www.bartcodes.dev/" className="text-primary hover:text-primary/80 transition-colors">Bartosz Szukała</Link></p>
         </div>
       </div>
     </footer>
